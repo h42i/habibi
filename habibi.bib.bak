@@ -1,0 +1,517 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: UTF8
+
+@BOOK{Abrahams2004,
+  title = {C++ Template Metaprogramming: Concepts, Tools, and Techniques from
+	Boost and Beyond (C++ in Depth Series)},
+  publisher = {Addison-Wesley Professional},
+  year = {2004},
+  author = {Abrahams, David and Gurtovoy, Aleksey},
+  isbn = {0321227255}
+}
+
+@BOOK{bär2012schrödinger,
+  title = {Schr{\"o}dinger programmiert C++: Das etwas andere Fachbuch},
+  publisher = {Galileo Press GmbH},
+  year = {2012},
+  author = {B{\"a}r, D.},
+  series = {Galileo Computing},
+  isbn = {9783836217569},
+  url = {http://books.google.de/books?id=V2B\_tQAACAAJ}
+}
+
+@BOOK{Bomans2007,
+  title = {Es gibt immer was zu tun},
+  publisher = {Callwey},
+  year = {2007},
+  author = {Bomans, W. and Trauthwein, D. and Weis, M.},
+  isbn = {9783766717085},
+  url = {http://books.google.de/books?id=5PGvPAAACAAJ}
+}
+
+@BOOK{Bronvstejn2008,
+  title = {Taschenbuch der Mathematik},
+  publisher = {Deutsch},
+  year = {2008},
+  author = {Bron{\v{s}}tejn, I.N. and Musiol, G.},
+  isbn = {9783817120079},
+  url = {http://books.google.de/books?id=VnsL9p8hXfQC}
+}
+
+@BOOK{Brown2006,
+  title = {{Hacking Google Maps and Google Earth (ExtremeTech) (ExtremeTech)}},
+  publisher = {Wiley},
+  year = {2006},
+  author = {Brown, Martin C.},
+  month = jul,
+  abstract = {{This one-of-a-kind resource contains 500 pages of jaw-dropping hacks,
+	mods, and customizations. These include creating mashups with data
+	from other sources such as Flickr, building a space station tracker,
+	hacking Maps with Firefox PiggyBank, and building a complete community
+	site with Maps and Earth. Now you can map out locations, get driving
+	directions, zoom into any point on the globe, display real time traffic,
+	and much more.}},
+  citeulike-article-id = {748216},
+  citeulike-linkout-0 = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\&amp;path=ASIN/0471790095},
+  citeulike-linkout-1 = {http://www.amazon.de/exec/obidos/redirect?tag=citeulike01-21\&amp;path=ASIN/0471790095},
+  citeulike-linkout-2 = {http://www.amazon.fr/exec/obidos/redirect?tag=citeulike06-21\&amp;path=ASIN/0471790095},
+  citeulike-linkout-3 = {http://www.amazon.co.uk/exec/obidos/ASIN/0471790095/citeulike00-21},
+  citeulike-linkout-4 = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0471790095},
+  citeulike-linkout-5 = {http://www.worldcat.org/isbn/0471790095},
+  citeulike-linkout-6 = {http://books.google.com/books?vid=ISBN0471790095},
+  citeulike-linkout-7 = {http://www.amazon.com/gp/search?keywords=0471790095\&index=books\&linkCode=qs},
+  citeulike-linkout-8 = {http://www.librarything.com/isbn/0471790095},
+  day = {19},
+  howpublished = {Paperback},
+  isbn = {0471790095},
+  posted-at = {2008-04-22 19:20:15},
+  priority = {2},
+  url = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0471790095}
+}
+
+@BOOK{Bublath1991,
+  title = {Verbl{\"u}ffende Experimente aus der Naturwissenschaft},
+  publisher = {Falken-Verlag},
+  year = {1991},
+  author = {Bublath, J. and Reichel, L.},
+  series = {Falken-Ratgeber},
+  isbn = {9783806845150},
+  url = {http://books.google.de/books?id=Gq5JAAAACAAJ}
+}
+
+@BOOK{Buchanan2004,
+  title = {Das Sandkorn, das die Erde zum Beben bringt},
+  publisher = {Campus-Verlag},
+  year = {2004},
+  author = {Buchanan, M.},
+  isbn = {9783593376974},
+  owner = {nanooq},
+  url = {http://books.google.de/books?id=I9ADywAACAAJ}
+}
+
+@BOOK{Chang2012,
+  title = {Exploring Everyday Things with R and Ruby: Learning About Everyday
+	Things},
+  publisher = {O'Reilly Media},
+  year = {2012},
+  author = {Chang, S.S.},
+  isbn = {9781449342210},
+  url = {http://books.google.de/books?id=oCwb9tUrv7QC}
+}
+
+@BOOK{Chomsky1995,
+  title = {Arbeit - Sprache - Freiheit: Essay und Interviews zur libert{\"a}ren
+	Transformation der Gesellschaft},
+  publisher = {Peterson},
+  year = {1995},
+  author = {Chomsky, N.},
+  isbn = {9783980212809},
+  owner = {nanooq},
+  url = {http://books.google.de/books?id=LB5ptwAACAAJ}
+}
+
+@BOOK{Conway2010,
+  title = {iPhone Programming: The Big Nerd Ranch Guide},
+  publisher = {Addison-Wesley Professional},
+  year = {2010},
+  author = {Conway, Joe and Hillegass, Aaron},
+  edition = {1st},
+  isbn = {0321706242, 9780321706249}
+}
+
+@BOOK{Cormen2007,
+  title = {Algorithmen: eine Einf{\"u}hrung},
+  publisher = {Oldenbourg},
+  year = {2007},
+  author = {Cormen, T.H.},
+  isbn = {9783486582628},
+  owner = {nanooq},
+  url = {http://books.google.de/books?id=curIpfL84boC}
+}
+
+@BOOK{Domke1990,
+  title = {Vektoranalysis: Einf{\"u}hrung f{\"u}r Ingenieure und Naturwissenschaftler},
+  publisher = {BI-Wiss.-Verlag},
+  year = {1990},
+  author = {Domke, E.},
+  isbn = {9783411142415},
+  url = {http://books.google.de/books?id=dSN7AAAACAAJ}
+}
+
+@BOOK{Feynman1990,
+  title = {Vom Wesen physikalischer Gesetze},
+  publisher = {Piper},
+  year = {1990},
+  author = {Feynman, R.P.},
+  isbn = {9783492033213},
+  url = {http://books.google.de/books?id=XjN9AAAACAAJ}
+}
+
+@BOOK{Freeman2004,
+  title = {Head First Design Patterns},
+  publisher = {O' Reilly \& Associates, Inc.},
+  year = {2004},
+  author = {Freeman, Elisabeth and Freeman, Eric and Bates, Bert and Sierra,
+	Kathy},
+  isbn = {0596007124}
+}
+
+@BOOK{Hart2006,
+  title = {Beginning ASP.NET 2.0 with C\#},
+  publisher = {Wiley},
+  year = {2006},
+  author = {Hart, C.},
+  series = {Wrox beginning guides},
+  isbn = {9780470042588},
+  lccn = {2006007661},
+  url = {http://books.google.de/books?id=4NSXpJFita0C}
+}
+
+@BOOK{Hild2009,
+  title = {Top im Abi - Mathematik},
+  publisher = {Schroedel},
+  year = {2009},
+  author = {Hild, R.},
+  series = {Abiwissen kompakt},
+  isbn = {9783507230675},
+  url = {http://books.google.de/books?id=mQ9jPgAACAAJ}
+}
+
+@BOOK{Hillegass2008,
+  title = {Cocoa: Programmierung f{\"u}r Mac OS X},
+  publisher = {mitp},
+  year = {2008},
+  author = {Hillegass, A.},
+  isbn = {9783826659607},
+  url = {http://books.google.de/books?id=ocJiJlAu0h8C}
+}
+
+@BOOK{hinzberg2011objective,
+  title = {Objective-C und Cocoa Praxiseinstieg: Programmierung f{\"u}r Mac
+	OS x und iPhone},
+  publisher = {Verlagsgruppe H{\"u}thig Jehle Rehm},
+  year = {2011},
+  author = {Hinzberg, H.},
+  isbn = {9783826684982},
+  url = {http://books.google.de/books?id=h8NfcHg3BhwC}
+}
+
+@BOOK{Karlsson2005,
+  title = {{Beyond the C++ Standard Library: An Introduction to Boost}},
+  publisher = {Addison Wesley Professional},
+  year = {2005},
+  author = {Karlsson, B.},
+  month = aug,
+  citeulike-article-id = {2280828},
+  day = {31},
+  keywords = {boost, c, std},
+  posted-at = {2008-01-23 14:50:44},
+  priority = {1}
+}
+
+@BOOK{Kofler2009,
+  title = {Ubuntu 9.04 Jaunty Jackalope: das Einsteigerbuch},
+  publisher = {Pearson Deutschland},
+  year = {2009},
+  author = {Kofler, M.},
+  series = {Open source library},
+  isbn = {9783827328526},
+  url = {http://books.google.de/books?id=Rc8r\_jqW3VgC}
+}
+
+@BOOK{Kumar2008,
+  title = {Quantum: Einstein, Bohr, and the Great Debate about the Nature of
+	Reality},
+  publisher = {W. W. Norton},
+  year = {2008},
+  author = {Kumar, M.},
+  isbn = {9780393080278},
+  owner = {nanooq},
+  url = {http://books.google.de/books?id=XSIssqPhDbEC}
+}
+
+@BOOK{Kurz2011,
+  title = { Die Datenfresser },
+  publisher = { Bundeszentrale für Politische Bildung },
+  year = { 2011 },
+  author = {Kurz, Constanze and Rieger, Frank},
+  series = { Schriftenreihe / Bundeszentrale für Politische Bildung ; 1177 },
+  edition = { Lizenzausg. },
+  note = { Kurz, Constanze; Rieger, Frank },
+  added-at = {2012-01-06T22:39:36.000+0100},
+  biburl = {http://www.bibsonomy.org/bibtex/2ce71f00d3ddcb0db23d61bda6d1e2617/schneeschmelze},
+  booktitle = { Die Datenfresser },
+  coverage = {271 S.},
+  description = {Gefunden im HeBIS-Portal: http://www.portal.hebis.de/},
+  interhash = {12b44c2cb4f8e121f9454730db6b23a6},
+  intrahash = {ce71f00d3ddcb0db23d61bda6d1e2617},
+  isbn = {978-3-8389-0177-0},
+  keywords = {constanzekurz datenschutz facebook frankrieger gesellschaft google
+	informatik netzkultur politik},
+  publisherplace = {Bonn},
+  timestamp = {2012-01-06T22:39:36.000+0100}
+}
+
+@BOOK{Lakos1996,
+  title = {Large-scale C++ Software Design},
+  publisher = {Addison Wesley Longman Publishing Co., Inc.},
+  year = {1996},
+  author = {Lakos, John},
+  address = {Redwood City, CA, USA},
+  isbn = {0-201-63362-0}
+}
+
+@BOOK{Leary1982,
+  title = {Politik der Ekstase},
+  publisher = {Volksverl.},
+  year = {1982},
+  author = {Leary, T.},
+  isbn = {9783886310821},
+  owner = {cheboo},
+  url = {http://books.google.de/books?id=SkRyAgAACAAJ}
+}
+
+@BOOK{Lindner1999,
+  title = {Taschenbuch der Elektrotechnik und Elektronik: mit 109 Tabellen},
+  publisher = {Fachbuchverl. Leipzig im Carl-Hanser-Verlag},
+  year = {1999},
+  author = {Lindner, H. and Brauer, H. and Lehmann, C.},
+  isbn = {9783446210561},
+  url = {http://books.google.de/books?id=vVasQwAACAAJ}
+}
+
+@BOOK{MacDonald2009,
+  title = {Websites erstellen: missing manual},
+  publisher = {O'Reilly},
+  year = {2009},
+  author = {MacDonald, M.},
+  series = {The missing manual},
+  isbn = {9783897219083},
+  url = {http://books.google.at/books?id=w8lIAaA7I2YC}
+}
+
+@BOOK{MacDonald2005,
+  title = {Pro .NET 2.0 Windows Forms and Custom Controls in C\#},
+  publisher = {Apress},
+  year = {2005},
+  author = {Matthew MacDonald},
+  series = {Books for professionals by professionals},
+  isbn = {9781590594391},
+  url = {http://books.google.de/books?id=zDi4LIDvd4wC}
+}
+
+@BOOK{Mehta2008,
+  title = {Pro LINQ Object Relational Mapping in C\# 2008},
+  publisher = {Apress},
+  year = {2008},
+  author = {Mehta, V.P.},
+  series = {Apresspod Series},
+  isbn = {9781590599655},
+  lccn = {2009275030},
+  url = {http://books.google.de/books?id=UxDLk5HoidwC}
+}
+
+@BOOK{Moers2003,
+  title = {Rumo \& die Wunder im Dunkeln: ein Roman in zwei B{\"u}chern},
+  publisher = {Piper},
+  year = {2003},
+  author = {Moers, W.},
+  lccn = {2003476931},
+  url = {http://books.google.de/books?id=QnwhAQAAIAAJ}
+}
+
+@BOOK{Moscovich2007,
+  title = {Kopfn{\"u}sse},
+  publisher = {Fleurus Idee},
+  year = {2007},
+  author = {Moscovich, I.},
+  series = {Spielen Denken Lernen},
+  isbn = {9783897174504},
+  url = {http://books.google.de/books?id=uuY8GQAACAAJ}
+}
+
+@BOOK{Musciano2003,
+  title = {HTML \& XHTML: das umfassende Referenzwerk},
+  publisher = {O'Reilly},
+  year = {2003},
+  author = {Musciano, C. and Kennedy, B.},
+  isbn = {9783897213500},
+  url = {http://books.google.de/books?id=Dnt378SFOG8C}
+}
+
+@BOOK{Nathan2006,
+  title = {Windows Presentation Foundation Unleashed},
+  publisher = {Pearson Education},
+  year = {2006},
+  author = {Nathan, A.},
+  isbn = {9780132715621},
+  url = {http://books.google.de/books?id=TSDxCqUBt18C}
+}
+
+@BOOK{Picon2006,
+  title = {Knobeleien und magische Tricks},
+  publisher = {Fleurus-Verlag},
+  year = {2006},
+  author = {Picon, D.},
+  isbn = {9783897173828},
+  url = {http://books.google.de/books?id=rW3nAAAACAAJ}
+}
+
+@BOOK{Podila2009,
+  title = {WPF Control Development Unleashed: Building Advanced User Experiences},
+  publisher = {SAMS},
+  year = {2009},
+  author = {Podila, Pavan and Hoffman, Kevin},
+  address = {Carmel, IN, USA},
+  edition = {1st},
+  isbn = {0672330334, 9780672330339}
+}
+
+@BOOK{Ronneburg2005,
+  title = {Debian-GNU-Linux-Anwenderhandbuch: f{\"u}r Einsteiger, Umsteiger
+	und Fortgeschrittene},
+  publisher = {Addison-Wesley},
+  year = {2005},
+  author = {Ronneburg, F.},
+  series = {Debian GNU/Linux Anwenderbox},
+  isbn = {9783827323033},
+  url = {http://books.google.de/books?id=NsZUkn05IWwC}
+}
+
+@BOOK{Schaetzing2007,
+  title = {Mordshunger},
+  year = {2007},
+  author = {Schätzing, Frank},
+  added-at = {2008-10-24T13:48:29.000+0200},
+  biburl = {http://www.bibsonomy.org/bibtex/29e8573cc8f223c8d0bdb37ebaaafeaa0/spengler08},
+  interhash = {fbd98a01b3798afd3160bf2f86546fc8},
+  intrahash = {9e8573cc8f223c8d0bdb37ebaaafeaa0},
+  keywords = {Kochbuch},
+  owner = {nanooq},
+  timestamp = {2008-10-24T13:48:29.000+0200}
+}
+
+@BOOK{Schneeweiss2006,
+  title = {Moderne C++ Programmierung: Klassen, Templates, Design Patterns},
+  publisher = {Springer},
+  year = {2006},
+  author = {Schneewei{\ss}, R.},
+  series = {Xpert. press Series},
+  isbn = {9783540222811},
+  url = {http://books.google.de/books?id=Xkp2k8vyUgUC}
+}
+
+@OTHER{Schumacher2007,
+  added-at = {2009-11-07T22:20:54.000+0100},
+  author = {Schumacher, Stefan},
+  biburl = {http://www.bibsonomy.org/bibtex/28004082508551f11aed5a5d793e4be09/steschum},
+  interhash = {fa460b3b84483a6f4c40e9cd4bfc402b},
+  intrahash = {8004082508551f11aed5a5d793e4be09},
+  issn = {1860-7683},
+  issue = {4},
+  journal = {UpTimes},
+  keywords = {Engineering Mitnick Social},
+  language = {german},
+  month = {12},
+  note = {\textit{Buchbesprechung}},
+  pages = {36\,--\,37},
+  publisher = {GUUG},
+  timestamp = {2009-11-07T22:20:54.000+0100},
+  title = {Kevin Mitnick: Die Kunst der Täuschung und Kevin Mitnick: Die Kunst
+	des Einbruchs},
+  urldate = {Dez. 2007},
+  year = {2007}
+}
+
+@MISC{Schwanitz2002,
+  author = {Schwanitz, Dietrich},
+  title = {Bildung - Alles, was man wissen mus},
+  year = {2002},
+  added-at = {2011-05-03T17:01:48.000+0200},
+  biburl = {http://www.bibsonomy.org/bibtex/2a690c403844fb05e0942c2579259151d/iww},
+  edition = {10},
+  interhash = {025ed00e342f5340785622b7bc1ddf4b},
+  intrahash = {a690c403844fb05e0942c2579259151d},
+  isbn = {3442151473},
+  keywords = {(condition-type), (feature{\_}two{\_}browse-bin), AAS, Allgemeinbildung,
+	Alter Bibliografien, Bildungswesen, Condition General Gr{\"o}se Normale
+	Taschenbuch, {\"U}berblick,},
+  number = {0},
+  owner = {nanooq},
+  publisher = {Goldmann Verlag},
+  timestamp = {2011-05-03T17:01:48.000+0200}
+}
+
+@BOOK{Singh2012,
+  title = {Fermat’s Last Theorem},
+  publisher = {HarperCollins Publishers},
+  year = {2012},
+  author = {Singh, S.},
+  isbn = {9780007381999},
+  owner = {Hackspace London},
+  url = {http://books.google.de/books?id=Ncrnn9hCn\_kC}
+}
+
+@BOOK{Singh2009,
+  title = {Gesund ohne Pillen - was kann die Alternativmedizin?},
+  publisher = {Hanser},
+  year = {2009},
+  author = {Singh, S. and Ernst, E.},
+  isbn = {9783446233010},
+  url = {http://books.google.de/books?id=VJFpPQAACAAJ}
+}
+
+@BOOK{Stroustrup2000,
+  title = {Die C++-Programmiersprache},
+  publisher = {Addison-Wesley},
+  year = {2000},
+  author = {Stroustrup, B.},
+  series = {Professionelle Programmierung},
+  isbn = {9783827316608},
+  url = {http://books.google.de/books?id=YR5CqZcFJU8C}
+}
+
+@BOOK{Thomas2001,
+  title = {Programming Ruby: the pragmatic programmer's guide},
+  publisher = {Addison-Wesley},
+  year = {2001},
+  author = {Thomas, D. and Hunt, A.},
+  isbn = {9780201710892},
+  lccn = {00045390},
+  url = {http://books.google.de/books?id=-YVQAAAAMAAJ}
+}
+
+@BOOK{Urbina2010,
+  title = {Hacking Interdit},
+  publisher = {Micro Application},
+  year = {2010},
+  author = {Urbina, A.G.},
+  isbn = {9782300027109},
+  owner = {nanooq},
+  url = {http://books.google.de/books?id=vp-JFCqEwE0C}
+}
+
+@BOOK{Wolmeringer2008,
+  title = {Coding for Fun},
+  publisher = {Galileo Press},
+  year = {2008},
+  author = {Wolmeringer, G.},
+  series = {Galileo Computing},
+  isbn = {9783836211161},
+  url = {http://books.google.de/books?id=cTDmtgAACAAJ}
+}
+
+@BOOK{Young2004,
+  title = {{M}alicious {C}ryptography: {E}xposing {C}ryptovirology},
+  publisher = {Wiley},
+  year = {2004},
+  author = {Young, Adam and Yung, Moti},
+  added-at = {2011-02-14T16:52:54.000+0100},
+  biburl = {http://www.bibsonomy.org/bibtex/291cfaa672a12c9e3beafaed32ab6bfaf/fohv},
+  interhash = {ef7a7a81cfff0f7d2669970ca791f568},
+  intrahash = {91cfaa672a12c9e3beafaed32ab6bfaf},
+  keywords = {imported},
+  owner = {nanooq},
+  timestamp = {2011-02-14T16:52:54.000+0100}
+}
+
